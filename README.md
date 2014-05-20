@@ -1,4 +1,4 @@
-ML_DSToolBox
+datasciencecoursera
 ============
 
-Repo - Corser DS ToolBoxx class
+Repo - Corsera DS ToolBox class
