@@ -1,4 +1,4 @@
 datasciencecoursera
 ============
 
-Repo - Corsera DS ToolBox class
+Repo - Coursera DS ToolBox class
